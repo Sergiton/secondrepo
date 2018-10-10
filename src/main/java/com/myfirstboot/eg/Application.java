@@ -1,6 +1,6 @@
 /* First Chnage in Assign */
 
-/*Second Change to be pulled*/
+/*Second Change to be pulled from remote repo*/
 
 package com.myfirstboot.eg.com.myfirstboot.eg;
 
